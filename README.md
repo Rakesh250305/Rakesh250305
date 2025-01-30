@@ -42,11 +42,14 @@
   <a href="https://www.linkedin.com/in/rakesh-raikwar-s250305/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/rakesh-raikwar-s250305/">
+  <a href="https://www.hackerrank.com/profile/rakesh_r250305">
   <img src="assets/hackerrank.png" height="35" alt="HackerRank logo"  />
   </a>
-  HackerRank 
-  Codechef
-  whatsapp
+  <a href="https://www.codechef.com/users/rakeshraikwar">
+  <img src="assets/codechef.png" height="35" alt="codechef logo"  />
+  </a>
+  <a href="wa.me/7879245448">
+  <img src="assets/whatsapp.png" height="35" alt="Whatsapp logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
