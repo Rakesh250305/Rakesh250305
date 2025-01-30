@@ -46,10 +46,10 @@
   <img src="assets/hackerrank.png" height="35" alt="HackerRank logo"  />
   </a>
   <a href="https://www.codechef.com/users/rakeshraikwar">
-  <img src="assets/codechef.png" height="35" alt="codechef logo"  />
+  <img src="assets/Codechef.png" height="35" alt="codechef logo"  />
   </a>
   <a href="wa.me/7879245448">
-  <img src="assets/whatsapp.png" height="35" alt="Whatsapp logo"  />
+  <img src="assets/Whatsapp.png" height="35" alt="Whatsapp logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
