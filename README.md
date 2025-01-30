@@ -42,6 +42,9 @@
   <a href="https://www.linkedin.com/in/rakesh-raikwar-s250305/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/rakesh-raikwar-s250305/">
+  <img src="assets/hackerrank.png" height="35" alt="HackerRank logo"  />
+  </a>
   HackerRank 
   Codechef
   whatsapp
