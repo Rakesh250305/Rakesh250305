@@ -51,7 +51,7 @@
 
 # Hi, I'm Rakesh Raikwar
 
-### Aspiring Java Developer | Software Engineer | Full Stack Developer
+### Aspiring Java Developer | Software Engineer | Full Stack Developer | MERN Stack Developer
 
 **Building reliable applications. Learning enterprise engineering. Solving real-world problems.**
 
