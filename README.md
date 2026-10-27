@@ -109,48 +109,55 @@ My development background is in the **MERN stack**, and I'm currently strengthen
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" alt="Java and JavaScript"/>
-</p>
-
-### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="HTML, CSS, React, Tailwind CSS, Bootstrap"/>
-</p>
-
-### ⚙️ Backend Development & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate" alt="Node.js, Express.js, Spring, Hibernate"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,eclipse,postman,figma,vercel,render" alt="GitHub, VS Code, Eclipse, Postman, Figma, Vercel, Render"/>
-</p>
-
-### 🤖 AI Tools
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
-</p>
-
-Familiar with using AI tools for coding assistance, debugging, problem-solving, technical research, and development productivity.
-
-### 🧠 Core Concepts
-`OOP` · `REST APIs` · `JWT Authentication` · `CRUD Operations` · `DBMS` · `SQL` · `Data Structures & Algorithms` · `Responsive Design`
-
----
-<!-- ===================== GITHUB STATISTICS ===================== -->
+<table>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,js" height="35" alt="Java, JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" height="35" alt="HTML, CSS, React, Tailwind CSS, Bootstrap"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & Frameworks</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate" height="35" alt="Node.js, Express.js, Spring, Hibernate"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="22" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" height="22" alt="Spring Data JPA"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="35" alt="MongoDB, MySQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=github,vscode,eclipse,postman,figma,vercel,render" height="35" alt="GitHub, VS Code, Eclipse, Postman, Figma, Vercel, Render"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
+      <br/>
+      Familiar with AI-assisted coding, debugging, research, and problem-solving.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Core Concepts</b></td>
+    <td>
+      OOP · REST APIs · JWT Authentication · CRUD Operation · DBMS · SQL · Data Structure & Algorithm · Responsive Design
+    </td>
+  </tr>
+</table><!-- ===================== GITHUB STATISTICS ===================== -->
 
 ## 📊 GitHub Analytics
 
