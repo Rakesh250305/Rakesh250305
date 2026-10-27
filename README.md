@@ -45,57 +45,157 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div> -->
-<h1 align="center">Hi 👋, I'm Rakesh Raikwar</h1>
+<!-- ===================== HEADER ===================== -->
 
-<h3 align="center">Software Engineer | MERN Stack Developer | Aspiring Java Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  📍 Bengaluru, Karnataka, India
+# Hi 👋, I'm Rakesh Raikwar
+
+### Aspiring Java Developer | Software Engineer | Full Stack Developer
+
+**Building reliable applications. Learning enterprise engineering. Solving real-world problems.**
+
+📍 Bengaluru, Karnataka, India
+
+<p>
+  <a href="https://rakesh-raikwar.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rakesh-raikwar-s250305/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rakesh.r250305@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://rakesh-raikwar.vercel.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/rakesh-raikwar-s250305/">LinkedIn</a> •
-  <a href="mailto:rakesh.r250305@gmail.com">Email</a>
-</p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
 
-Computer Science graduate (2026) with **9 months of Software Engineer Intern experience** and hands-on expertise in MERN stack development. Currently expanding my skills in **Java, Spring Boot, MySQL, and enterprise software engineering** to build scalable, reliable applications.
+## 👨‍💻 About Me
 
-### 💼 Experience
+I'm a **2026 Computer Science graduate** with 9 months of internship experience as a Software Engineer Intern and hands-on experience building full-stack applications.
 
-**Software Engineer Intern | TechHarvest Solution**
+My development background is in the **MERN stack**, and I'm currently strengthening my skills in **Java, Spring Boot, MySQL, and enterprise software development**.
 
-- Developed full-stack web applications using React.js, Node.js, Express.js, and MongoDB.
-- Built REST APIs and implemented role-based application functionality.
-- Worked on database integration, debugging, and application optimization.
-- Collaborated using Git and GitHub.
+- 💼 **Experience:** Software Engineer Intern — TechHarvest Solution
+- ☕ **Current Focus:** Java, Spring Boot, Hibernate, and SQL
+- 🧩 **Core Interests:** Backend development, REST APIs, databases, and software architecture
+- 🎯 **Career Goals:** Java Developer, Software Engineer, Software Developer, and Full Stack Developer
+- 🤝 **Open to:** Entry-level and fresher software development opportunities
 
-### 🛠️ Tech Stack
+---
+
+<!-- ===================== EXPERIENCE ===================== -->
+
+## 💼 Professional Experience
+
+### Software Engineer Intern | TechHarvest Solution
+
+**9 Months of Internship Experience**
+
+- Developed full-stack applications using React.js, Node.js, Express.js, and MongoDB.
+- Built RESTful APIs and integrated frontend interfaces with backend services.
+- Implemented role-based access and application workflows.
+- Worked on database operations, debugging, and performance improvements.
+- Used Git and GitHub for version control and collaborative development.
+
+---
+
+<!-- ===================== TECHNICAL SKILLS ===================== -->
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github" alt="Technical skills"/>
+  <img src="https://skillicons.dev/icons?i=java,js" alt="Java and JavaScript"/>
 </p>
 
-**Currently Learning:** Spring Boot, Hibernate, Spring Data JPA, DSA, and enterprise application development.
+### Frontend Development
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh250305&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh250305&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="HTML, CSS, React, Tailwind CSS, Bootstrap"/>
 </p>
 
-### 🤝 Connect With Me
+### Backend Development
 
-<p align="left">
-  <a href="https://github.com/Rakesh250305">GitHub</a> •
-  <a href="https://www.linkedin.com/in/rakesh-raikwar-s250305/">LinkedIn</a> •
-  <a href="https://rakesh-raikwar.vercel.app">Portfolio</a> •
-  <a href="mailto:rakesh.r250305@gmail.com">Email</a> •
-  <a href="https://www.hackerrank.com/profile/rakesh_r250305">HackerRank</a> •
-  <a href="https://www.codechef.com/users/rakeshraikwar">CodeChef</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js"/>
 </p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL"/>
+</p>
+
+### Frameworks and Technologies in Progress
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-Learning-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-Learning-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA"/>
+</p>
+
+### Tools and Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" alt="Git, GitHub, VS Code, Postman, Vercel, Render"/>
+</p>
+
+### Core Concepts
+
+`OOP` · `REST APIs` · `JWT Authentication` · `CRUD Operations` · `DBMS` · `SQL` · `Git Workflows` · `Responsive Design`
+
+**Currently Strengthening:** Core Java, Collections Framework, Exception Handling, Multithreading, DSA, Spring Boot, Hibernate, JPA, MySQL, unit testing, clean code, and enterprise application architecture.
+
+---
+
+<!-- ===================== GITHUB STATISTICS ===================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Rakesh250305">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rakesh250305&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/Rakesh250305">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh250305&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Rakesh250305">
+  <img src="https://img.shields.io/badge/GitHub-Rakesh250305-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/rakesh-raikwar-s250305/">
+  <img src="https://img.shields.io/badge/LinkedIn-Rakesh_Raikwar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:rakesh.r250305@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Gmail"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.hackerrank.com/profile/rakesh_r250305">HackerRank</a> •
+<a href="https://www.codechef.com/users/rakeshraikwar">CodeChef</a> •
+<a href="https://rakesh-raikwar.vercel.app">Portfolio</a>
+
+<br/><br/>
+
+**"Learn continuously. Build thoughtfully. Engineer with purpose."**
+
+</div>
